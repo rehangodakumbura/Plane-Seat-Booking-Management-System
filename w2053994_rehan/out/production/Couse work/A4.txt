@@ -1,0 +1,8 @@
+Ticket Information:
+Row: A
+Seat: 4
+Price: $200
+Person Information:
+Name: rehan
+Surname: asdadas
+Email: adadfasd

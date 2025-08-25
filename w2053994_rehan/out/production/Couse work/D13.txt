@@ -1,0 +1,8 @@
+Ticket Information:
+Row: D
+Seat: 13
+Price: $180
+Person Information:
+Name: rsfgscsd
+Surname: sdfsdfsd
+Email: sdfsds

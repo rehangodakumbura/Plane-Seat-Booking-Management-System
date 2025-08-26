@@ -332,5 +332,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: rehangod2003@gmail.com
 
 ---
-
-**Academic Integrity Statement**: This coursework represents original work completed according to university guidelines. All external sources and references have been properly attributed within the code documentation.
